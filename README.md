@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariharan2017
-- 👀 I’m interested in Front End Web Development
-- 🌱 I currently work in React and Node
+- 👀 I’m do Front End Web Development
+- 🌱 I currently work in React, JavaScrip & Node
 - 📫 How to reach me - Drop a mail at hariharan9876@gmail.com
 
 <!---
